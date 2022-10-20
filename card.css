@@ -1,0 +1,27 @@
+.container{
+	margin-top:70px;
+	height:700px;
+	width:1200px;
+	background-color:grey;
+}
+an.hover{
+	color:red;
+}
+col.an.hover{
+	color:red;
+}
+#num{
+	font-size:40px;
+}
+.an{
+	background-color: white;
+	margin-top: 100px;
+	margin-bottom:100px;
+	height:500px;
+	width:200px;
+	text-align:center;
+}
+.side{
+	background-color: red;
+	color: white;
+}

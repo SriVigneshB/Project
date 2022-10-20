@@ -1,0 +1,30 @@
+.container{
+	margin-top:50px;
+}
+.col{
+	
+	background-color:pink ;
+    width:100px;
+    height:125px;
+}
+.blue-clr{
+	background-color:#fc034e;
+
+}
+.cm{
+	background-color:powderblue;
+}
+.col-8{
+	width:100px;
+	height:125px;
+	background-color:green;
+	border-right-style: solid;
+	border-width: 7px;
+	border-color: white;
+}
+.col-4{
+	width:100px;
+	height:125px;
+	background-color:orange;
+}
+

@@ -1,0 +1,52 @@
+.color{
+	margin-top:30px;
+	margin-left:250px;
+	height: 500px;
+	width: 1000px;
+	background-color:grey;
+}
+body{
+	background-color:grey;
+}
+h1{
+	text-align:center;
+}
+#ab{
+	position:center;
+}
+
+.u{
+	margin-top:70px;
+   height:500px;
+   width: 300px;
+   background-color:white;
+   place-items:center;
+}
+h4{
+	text-align:center;
+}
+p{
+	font-size:20px;
+	text-align: justify-all;
+}
+.image{
+	text-align: center;
+	transform: translateY(-15%);
+}
+.button {
+  background-color:blue;
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius:50%;
+  font-size: 20px;
+  margin: 5px 5px;
+}
+.pin{
+	background-color:red;
+	color: white;
+	border-radius:50%;
+}
